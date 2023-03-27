@@ -4,19 +4,19 @@
     "url": "https://www.rideable.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.rideable.ch.ico",
     "slug": "rideable-ch",
-    "status": "up",
-    "uptime": "72.10%",
-    "uptimeDay": "72.10%",
-    "uptimeWeek": "72.10%",
-    "uptimeMonth": "72.10%",
-    "uptimeYear": "72.10%",
-    "time": 2256,
-    "timeDay": 2256,
-    "timeWeek": 2256,
-    "timeMonth": 2256,
-    "timeYear": 2256,
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2872,
+    "timeDay": 2872,
+    "timeWeek": 2872,
+    "timeMonth": 2872,
+    "timeYear": 2872,
     "dailyMinutesDown": {
-      "2023-03-27": 7
+      "2023-03-27": 0
     }
   },
   {

@@ -1,7 +1,7 @@
 url: https://www.rideable.ch
-status: up
-code: 200
-responseTime: 1598
-lastUpdated: 2023-04-03T02:39:35.323Z
+status: down
+code: 500
+responseTime: 6315
+lastUpdated: 2023-04-03T02:47:06.021Z
 startTime: Mon Mar 27 2023 06:33:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

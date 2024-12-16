@@ -22,7 +22,7 @@
     "url": "https://www.jonock.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.jonock.ch.ico",
     "slug": "jonock-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 2201,
     "timeYear": 2126,
     "dailyMinutesDown": {
+      "2024-12-16": 0,
       "2024-05-09": 16
     }
   }

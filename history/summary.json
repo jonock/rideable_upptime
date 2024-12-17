@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jonock.ch.ico",
     "slug": "jonock-ch",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "86.43%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "79.00%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.94%",
     "time": 2266,
     "timeDay": 7023,
     "timeWeek": 4853,
     "timeMonth": 3146,
     "timeYear": 2218,
     "dailyMinutesDown": {
-      "2024-12-16": 196,
+      "2024-12-17": 57,
+      "2024-12-16": 246,
       "2024-05-09": 16
     }
   }

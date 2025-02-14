@@ -4,18 +4,20 @@
     "url": "https://www.rideable.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.rideable.ch.ico",
     "slug": "rideable-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 1081,
-    "timeWeek": 802,
-    "timeMonth": 747,
-    "timeYear": 800,
-    "dailyMinutesDown": {}
+    "timeDay": 771,
+    "timeWeek": 759,
+    "timeMonth": 739,
+    "timeYear": 799,
+    "dailyMinutesDown": {
+      "2025-02-14": 0
+    }
   },
   {
     "name": "Jonock.ch",

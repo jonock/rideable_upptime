@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rideable.ch.ico",
     "slug": "rideable-ch",
     "status": "down",
-    "uptime": "59.55%",
+    "uptime": "59.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 475,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2026-05-27": 32,
+      "2026-05-27": 1165,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -388,17 +388,17 @@
     "url": "https://www.jonock.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.jonock.ch.ico",
     "slug": "jonock-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "94.97%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.11%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.78%",
-    "time": 2498,
-    "timeDay": 2017,
-    "timeWeek": 1832,
-    "timeMonth": 1885,
-    "timeYear": 2516,
+    "time": 2495,
+    "timeDay": 1574,
+    "timeWeek": 1764,
+    "timeMonth": 1862,
+    "timeYear": 2511,
     "dailyMinutesDown": {
       "2025-06-05": 32,
       "2025-12-19": 16,
@@ -420,7 +420,8 @@
       "2026-05-23": 22,
       "2026-05-24": 25,
       "2026-05-25": 226,
-      "2026-05-26": 72
+      "2026-05-26": 72,
+      "2026-05-27": 0
     }
   }
 ]

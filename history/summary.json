@@ -16,7 +16,7 @@
     "timeMonth": 407,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-07-05": 1013,
+      "2026-07-05": 1072,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -388,17 +388,17 @@
     "url": "https://www.jonock.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.jonock.ch.ico",
     "slug": "jonock-ch",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "84.85%",
-    "uptimeWeek": "81.13%",
-    "uptimeMonth": "84.58%",
-    "uptimeYear": "98.71%",
-    "time": 2142,
-    "timeDay": 1745,
-    "timeWeek": 1582,
-    "timeMonth": 1579,
-    "timeYear": 2071,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "84.86%",
+    "uptimeWeek": "80.54%",
+    "uptimeMonth": "84.44%",
+    "uptimeYear": "98.70%",
+    "time": 2143,
+    "timeDay": 1928,
+    "timeWeek": 1606,
+    "timeMonth": 1581,
+    "timeYear": 2072,
     "dailyMinutesDown": {
       "2026-06-13": 207,
       "2026-06-14": 610,
@@ -422,7 +422,7 @@
       "2026-07-02": 130,
       "2026-07-03": 412,
       "2026-07-04": 257,
-      "2026-07-05": 0
+      "2026-07-05": 59
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://www.jonock.ch
-status: up
-code: 200
-responseTime: 2764
-lastUpdated: 2026-08-08T13:52:48.361Z
+status: down
+code: 415
+responseTime: 460
+lastUpdated: 2026-08-08T14:19:58.352Z
 startTime: 2023-03-27T06:33:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>

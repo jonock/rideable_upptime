@@ -11,12 +11,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 561,
-    "timeDay": 420,
+    "timeDay": 196,
     "timeWeek": 381,
     "timeMonth": 368,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-09-16": 53,
+      "2026-09-16": 154,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -390,12 +390,12 @@
     "slug": "jonock-ch",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "98.49%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "98.47%",
     "time": 2008,
-    "timeDay": 1539,
+    "timeDay": 391,
     "timeWeek": 1847,
     "timeMonth": 1812,
     "timeYear": 1904,
@@ -442,7 +442,7 @@
       "2026-09-09": 357,
       "2026-09-11": 20,
       "2026-09-10": 93,
-      "2026-09-16": 0
+      "2026-09-16": 101
     }
   }
 ]

@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rideable.ch.ico",
     "slug": "rideable-ch",
     "status": "down",
-    "uptime": "51.68%",
+    "uptime": "51.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 577,
-    "timeDay": 340,
-    "timeWeek": 356,
-    "timeMonth": 995,
-    "timeYear": 590,
+    "timeDay": 359,
+    "timeWeek": 373,
+    "timeMonth": 983,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2026-11-19": 313,
+      "2026-11-20": 300,
+      "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
@@ -379,8 +380,7 @@
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
-      "2025-11-21": 1440,
-      "2025-11-20": 1440
+      "2025-11-21": 1440
     }
   },
   {
@@ -396,9 +396,9 @@
     "uptimeYear": "98.17%",
     "time": 2028,
     "timeDay": 2260,
-    "timeWeek": 3959,
-    "timeMonth": 3140,
-    "timeYear": 1920,
+    "timeWeek": 3852,
+    "timeMonth": 3120,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2026-07-25": 61,
       "2026-07-26": 80,
